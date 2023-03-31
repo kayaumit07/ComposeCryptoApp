@@ -88,7 +88,6 @@ fun MainView(){
 fun DefaultPreview() {
     CryptoAppTheme {
         MainView()
-        //CryptoRow(crypto = CryptoModel("Btc","usdt","21321"))
     }
 }
 
